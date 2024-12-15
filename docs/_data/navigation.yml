@@ -3,6 +3,13 @@ main:
     url: "/"
   - title: "Projects"
     url: "/projects/"
+    children:
+      - title: "Phishing Labs"
+        url: "/projects/#phishing"
+      - title: "Malware Analysis"
+        url: "/projects/#malware"
+      - title: "SIEM Threat Detection"
+        url: "/projects/#siem"
   - title: "About"
     url: "/about/"
   - title: "Blog"
