@@ -138,6 +138,21 @@ author:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
+# Site Navigation
+navigation:
+  - title: "Home"
+    url: /
+  - title: "About Me"
+    url: /about/
+  - title: "Projects"
+    url: /projects/
+  - title: "Skills"
+    url: /skills/
+  - title: "Certifications"
+    url: /certifications/
+  - title: "Contact"
+    url: /contact/
+
 # Site Footer
 footer:
   links:
