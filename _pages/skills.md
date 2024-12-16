@@ -4,8 +4,6 @@ title: "🛠 Skills"
 permalink: /skills/
 ---
 
-#  Skills
-
 ### **Technical Skills**
 - **SIEM Tools**: Microsoft Sentinel, Elastic SIEM, Splunk  
 - **Threat Detection**: Network Traffic Analysis, Malware Forensics, Phishing Analysis  
