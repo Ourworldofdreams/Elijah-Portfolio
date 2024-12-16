@@ -4,8 +4,6 @@ title: "📬 Contact"
 permalink: /contact/
 ---
 
-#  Contact Me
-
 Let’s connect! Whether you’re exploring opportunities or want to discuss cybersecurity, I’d love to hear from you.  
 
 - **LinkedIn**: [darralynmiller23](https://www.linkedin.com/in/darralynmiller23)  
