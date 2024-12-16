@@ -117,7 +117,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Cybersecurity enthusiast passionate about penetration testing and network defense."
   location         : " "
-  email            : "elijah6023@gmail.com
+  email            : "elijah6023@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
