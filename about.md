@@ -4,8 +4,6 @@ title: "About Me"
 permalink: /about/
 ---
 
-# 🌟 About Me
-
 I am an **IT professional** with a **Bachelor’s degree in Information Technology** (Networking and Information Security) and hands-on experience in **SOC operations**, **phishing analysis**, **malware forensics**, and **system administration**.
 
 ---
