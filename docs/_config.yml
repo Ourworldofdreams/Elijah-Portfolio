@@ -1,7 +1,7 @@
 # Minimal Mistakes Jekyll Theme Configuration
 
 remote_theme: "mmistakes/minimal-mistakes@master"
-minimal_mistakes_skin: "dark" # Choose your skin: "air", "dark", "plum", etc.
+minimal_mistakes_skin: "neon" # Choose your skin: "air", "dark", "plum", etc.
 
 # Site Settings
 locale: "en-US"
