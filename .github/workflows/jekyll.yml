@@ -29,6 +29,9 @@ jobs:
         with:
           ruby-version: '3.1' # Specify Ruby version
           bundler-cache: true
+          
+      - name: Install Bundler
+        run: gem install bundler
 
       - name: Install Dependencies
         run: |
@@ -52,27 +55,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         uses: actions/deploy-pages@v4
-
-  name: Jekyll Build
-
-on:
-  push:
-    branches:
-      - main
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout the code
-        uses: actions/checkout@v2
-
-      - name: Install dependencies
-        run: |
-          gem install bundler
-          bundle install
-
-      - name: Build site
-        run: bundle exec jekyll build
-
-
+        
