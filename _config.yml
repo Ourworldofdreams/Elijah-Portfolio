@@ -116,7 +116,7 @@ author:
   name             : "Elijah Miller"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Cybersecurity enthusiast passionate about penetration testing and network defense."
-  location         : " "
+  location         : "Atlanta, GA"
   email            : "elijah6023@gmail.com"
   links:
     - label: "Email"
@@ -133,7 +133,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      # url: "https://github.com/Ourworldofdreams"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
