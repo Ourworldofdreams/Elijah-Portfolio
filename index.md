@@ -4,9 +4,13 @@ author_profile: true
 title: "Welcome to My Cybersecurity Portfolio"
 ---
 
-Hi, I’m **Elijah Miller**—a motivated IT professional with hands-on experience in SOC operations, phishing analysis, malware forensics, and IT support.  
+I think your current description is solid and gives a good sense of your expertise and interests. Here's a refined version that maintains your tone but adds a bit more polish:
 
-This website showcases my technical projects, certifications, and skills as I continue growing in the dynamic field of cybersecurity.  
+---
+
+**"Hi, I’m Elijah Miller—a dedicated IT professional with hands-on experience in SOC operations, phishing analysis, malware forensics, and IT support. My passion lies in building robust security systems, threat detection, and ensuring strong network defense.**  
+
+**This portfolio showcases my technical projects, certifications, and skills as I continue to grow and contribute to the ever-evolving world of cybersecurity."**
 
 ---
 
