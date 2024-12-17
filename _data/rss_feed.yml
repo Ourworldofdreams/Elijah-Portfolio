@@ -1,0 +1,28 @@
+# _data/rss_feed.yml
+- title: "The CyberWire"
+  url: "https://www.thecyberwire.com"
+  description: "Daily cybersecurity news, trends, and analysis."
+
+- title: "Dark Reading"
+  url: "https://www.darkreading.com"
+  description: "In-depth cybersecurity news, research, and threat intelligence."
+
+- title: "MITRE ATT&CK"
+  url: "https://attack.mitre.org"
+  description: "Comprehensive threat intelligence framework for attackers and defenders."
+
+- title: "Krebs on Security"
+  url: "https://krebsonsecurity.com"
+  description: "Cybercrime news, research, and analysis."
+
+- title: "Microsoft Security Blog"
+  url: "https://www.microsoft.com/security/blog"
+  description: "Updates on Microsoft security research and patches."
+
+- title: "Security Weekly"
+  url: "https://securityweekly.com"
+  description: "Interviews, news, and discussions about IT security."
+
+- title: "OWASP"
+  url: "https://owasp.org"
+  description: "Open-source tools, research, and security guidelines."
