@@ -18,6 +18,7 @@ I am a dedicated IT professional with hands-on experience in SOC operations, phi
 - [Skills](skills)
 - [Certifications](certifications)
 - [Contact](contact)
+- [Resources](resources)
 
 ---
 
