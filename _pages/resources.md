@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Resources"
+permalink: /resources/
+---
+
 ### 📰 What I’m Reading: Cybersecurity News and Updates
 
 <div id="rss-news">
