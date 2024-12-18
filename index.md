@@ -8,7 +8,7 @@ title: "Welcome to My Cybersecurity Portfolio"
 
 I am a dedicated IT professional with hands-on experience in SOC operations, phishing analysis, malware forensics, and IT support. My passion lies in building robust security systems, threat detection, and ensuring strong network defense. 
 
-**This portfolio showcases my technical projects, certifications, and skills as I continue to grow and contribute to the ever-evolving world of cybersecurity.**
+**This portfolio showcases my technical projects, certifications, and skills as I continue to grow and contribute in the world of cybersecurity.**
 
 ---
 
