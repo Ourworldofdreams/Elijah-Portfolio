@@ -12,3 +12,5 @@ main:
     url: /certifications/
   - title: "Contact"
     url: /contact/
+  - title: "Resources"
+    url: /resources/
