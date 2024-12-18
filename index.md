@@ -21,13 +21,3 @@ I am a dedicated IT professional with hands-on experience in SOC operations, phi
 
 ---
 
-### 🔒 Latest Cybersecurity Updates & Things I'm Into 
-<div id="rss-feed">
-  {% for item in site.data.rss_feed %}
-    <div>
-      <strong><a href="{{ item.url }}">{{ item.title }}</a></strong>
-      <p>{{ item.description }}</p>
-    </div>
-    <hr>
-  {% endfor %}
-</div>
