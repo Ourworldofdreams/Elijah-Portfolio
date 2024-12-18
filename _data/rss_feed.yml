@@ -1,28 +1,69 @@
-# _data/rss_feed.yml
-- title: "The CyberWire"
-  url: "https://www.thecyberwire.com"
-  description: "Daily cybersecurity news, trends, and analysis."
+news:
+  - title: "The CyberWire"
+    url: "https://www.thecyberwire.com"
+    description: "Daily cybersecurity news, trends, and analysis."
 
-- title: "Dark Reading"
-  url: "https://www.darkreading.com"
-  description: "In-depth cybersecurity news, research, and threat intelligence."
+  - title: "Dark Reading"
+    url: "https://www.darkreading.com"
+    description: "In-depth cybersecurity news, research, and threat intelligence."
 
-- title: "MITRE ATT&CK"
-  url: "https://attack.mitre.org"
-  description: "Comprehensive threat intelligence framework for attackers and defenders."
+  - title: "MITRE ATT&CK"
+    url: "https://attack.mitre.org"
+    description: "Comprehensive threat intelligence framework for attackers and defenders."
 
-- title: "Krebs on Security"
-  url: "https://krebsonsecurity.com"
-  description: "Cybercrime news, research, and analysis."
+  - title: "Krebs on Security"
+    url: "https://krebsonsecurity.com"
+    description: "Cybercrime news, research, and analysis."
 
-- title: "Microsoft Security Blog"
-  url: "https://www.microsoft.com/security/blog"
-  description: "Updates on Microsoft security research and patches."
+  - title: "Microsoft Security Blog"
+    url: "https://www.microsoft.com/security/blog"
+    description: "Updates on Microsoft security research and patches."
 
-- title: "Security Weekly"
-  url: "https://securityweekly.com"
-  description: "Interviews, news, and discussions about IT security."
+  - title: "Security Weekly"
+    url: "https://securityweekly.com"
+    description: "Interviews, news, and discussions about IT security."
 
-- title: "OWASP"
-  url: "https://owasp.org"
-  description: "Open-source tools, research, and security guidelines."
+  - title: "The DFIR Report"
+    url: "https://thedfirreport.com"
+    description: "Incident response stories and malware analysis reports."
+
+  - title: "The Hacker News"
+    url: "https://x.com/thehackersnews?s=21&t=tLd36BW8PiyIGp71wWuP5A"
+    description: "Breaking news in cybersecurity."
+
+  - title: "Huntress Labs"
+    url: "https://x.com/huntresslabs?s=21&t=tLd36BW8PiyIGp71wWuP5A"
+    description: "Insights on threat hunting and endpoint protection."
+
+  - title: "This Week in Forensics"
+    url: "https://thisweekin4n6.com"
+    description: "Weekly updates on forensic tools and techniques."
+
+tools:
+  - title: "OWASP"
+    url: "https://owasp.org"
+    description: "Open-source tools, research, and security guidelines."
+
+  - title: "Blue Team Notes"
+    url: "https://www.drayagha.uk/the-blue-team-notes"
+    description: "A compilation of tips and tools for blue teamers."
+
+  - title: "Antivirus Event Analysis Cheat Sheet"
+    url: "https://www.nextron-systems.com/wp-content/uploads/2019/10/Antivirus_Event_Analysis_CheatSheet_1.7.2.pdf"
+    description: "A cheat sheet for analyzing antivirus logs."
+
+  - title: "TCP/IP Programming Guide"
+    url: "https://www.garykessler.net/library/tcpip_prg_GKA.pdf"
+    description: "A detailed guide to TCP/IP programming and analysis."
+
+  - title: "Malware Archaeology Cheat Sheets"
+    url: "https://www.malwarearchaeology.com/cheat-sheets"
+    description: "Cheat sheets for log analysis and malware detection."
+
+  - title: "OSINT Framework"
+    url: "https://osintframework.com/"
+    description: "A collection of tools for open-source intelligence."
+
+  - title: "SOC Methodology Guide"
+    url: "https://glowbox.cc/output.php?title=My+SOC+Methodology"
+    description: "A guide to SOC workflows and methodologies."
