@@ -24,4 +24,4 @@ I am a dedicated IT professional with hands-on experience in SOC operations, phi
 
 ### 👨‍💻 Explore My Work
 - [TryHackMe Profile](<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1559492" style='border:none;'></iframe>)  
-- [Let's Defend Profile](https://letsdefend.io/user/elijah_miller716)  
+- [Let's Defend Profile](https://app.letsdefend.io/user/elijah_miller716)  
