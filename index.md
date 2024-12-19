@@ -26,8 +26,8 @@ I am a dedicated IT professional with hands-on experience in SOC operations, phi
 
 Here is my TryHackMe progress badge:
 
-<a href="https://tryhackme.com/p/1559492" target="_blank">
-    <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1559492" alt="TryHackMe Badge" />
+<a href="https://tryhackme.com/r/p/Elijah.Miller" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Elijah.Miller.png" alt="Your Image Badge" />
 </a>
 
 ---
