@@ -4,7 +4,7 @@ author_profile: true
 title: "Welcome to My Cybersecurity Portfolio"
 ---
 
-**Hi, I’m Elijah Miller** 
+**Hi, I am Elijah Miller** 
 
 I am a dedicated IT professional with hands-on experience in SOC operations, phishing analysis, malware forensics, and IT support. My passion lies in building robust security systems, threat detection, and ensuring strong network defense. 
 
