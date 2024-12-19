@@ -4,7 +4,7 @@ title: "About Me"
 permalink: /about/
 ---
  
-Hi, I’m **Elijah Miller**—a cybersecurity and IT professional with a **B.S. in Information Technology** focused on Networking and Information Security. I’ve built my skills through real-world experience, hands-on labs, and challenges that kept me learning and improving every step of the way.  
+Hi, I am **Elijah Miller**—a cybersecurity and IT professional with a **B.S. in Information Technology** focused on Networking and Information Security. I’ve built my skills through real-world experience, hands-on labs, and challenges that kept me learning and improving every step of the way.  
 
 In my role as a **Security Analyst/Helpdesk**, I worked on a mix of IT support and security tasks, like:  
 - Setting up and managing **user accounts** for new employees and troubleshooting access issues.  
@@ -18,9 +18,9 @@ I’ve also spent time building my technical knowledge outside of work:
 - In **Cisco Packet Tracer Labs**, I configured routers, switches, and protocols like **OSPF** and **EIGRP**, solving network challenges in IPv4 and IPv6 environments.  
 - On **LetsDefend**, I practiced working as a SOC analyst by investigating real-world security alerts, such as identifying and analyzing vulnerabilities, malware infections, and suspicious user activity within a SIEM environment.
 
-Beyond IT, I was also a student-athlete, balancing NCAA Division I athletics with academics. As a track and field competitor for The University of Southern Mississippi and The University of Tennessee, I earned recognition such as the **Conference USA Men’s Track Commissioner’s Honor Roll (2020-21, 2021-22)** and the **NCAA Division I Track and Field Coaches Association All-Academic award (2021-22)**. These experiences taught me discipline, time management, and the importance of teamwork—qualities that I bring to every professional challenge I face. 
+Beyond IT, I was also a student-athlete, balancing NCAA Division I athletics with academics. As a track and field competitor for **The University of Tennessee** and **University of Southern Mississippi**, I earned recognition such as the **Conference USA Men’s Track Commissioner’s Honor Roll (2020-21, 2021-22)** and the **NCAA Division I Track and Field Coaches Association All-Academic award (2021-22)**. These experiences taught me discipline, time management, and the importance of teamwork—qualities that I bring to every professional challenge I face. 
 
-I’m always looking for ways to grow and improve, whether it’s learning new tools, solving technical challenges, or finding better ways to keep systems secure.  
+Iam always looking for ways to grow and improve, whether it’s learning new tools, solving technical challenges, or finding better ways to keep systems secure.  
 
 ---
 
