@@ -17,7 +17,7 @@ I’ve also spent time building my technical knowledge outside of work:
 - On **TryHackMe**, I tackled **cyber defense rooms** that covered **network security, web penetration testing**, and **ethical hacking**.  
 - In **Cisco Packet Tracer Labs**, I configured routers, switches, and protocols like **OSPF** and **EIGRP**, solving network challenges in IPv4 and IPv6 environments.  
 
-Beyond IT, I was also a student-athlete, balancing NCAA Division I athletics with academics. Competing in track and field taught me the importance of **discipline, time management**, and showing up for my team—skills that carry over into how I approach my work today.  
+Beyond IT, I was also a student-athlete, balancing NCAA Division I athletics with academics. As a track and field competitor for The University of Southern Mississippi and The University of Tennessee, I earned recognition such as the **Conference USA Men’s Track Commissioner’s Honor Roll (2020-21, 2021-22)** and the **NCAA Division I Track and Field Coaches Association All-Academic award (2021-22)**. These experiences taught me discipline, time management, and the importance of teamwork—qualities that I bring to every professional challenge I face. 
 
 I’m always looking for ways to grow and improve, whether it’s learning new tools, solving technical challenges, or finding better ways to keep systems secure.  
 
